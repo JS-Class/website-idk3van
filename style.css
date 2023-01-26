@@ -1,0 +1,25 @@
+body{
+    font-size: 1em;
+}
+
+header {
+    color: whitesmoke;
+    text-align: center;
+    background-color: black;
+    line-height: 2em;
+}
+
+h3 {
+    color: purple;
+}
+
+p {
+    font-family: Verdana;
+}
+
+ol {
+    font-family:'Trebuchet MS';
+    font-size: 1.25em;
+    font-weight: bold;
+    font-style: italic;
+}
