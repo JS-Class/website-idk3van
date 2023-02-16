@@ -24,6 +24,11 @@ ol {
     font-style: italic;
 }
 
+table{
+    text-align: left;
+    width: 50%;
+    font-weight: normal;
+}
 nav {
     background-color: black;
     line-height: 200%;
