@@ -1,0 +1,97 @@
+body{
+    font-size: 1em;
+}
+
+header {
+    color: whitesmoke;
+    text-align: center;
+    background-color: black;
+    line-height: 2em;
+}
+
+img 
+{
+    float: left;
+    margin: 5px;
+
+}
+h3 {
+    color: purple;
+    vertical-align: bottom;
+}
+p {
+    font-family: Verdana;
+}
+.list {
+    clear: both;
+}
+ol {
+    font-family:'Trebuchet MS';
+    font-size: 1.25em;
+    font-weight: bold;
+    font-style: italic;
+}
+
+table{
+    text-align: left;
+    width: 50%;
+    font-weight: normal;
+}
+
+#order_form_head {
+    text-align: center;
+    color: gold;
+    font-weight: bold;
+    background-color: crimson;
+}
+form {
+    padding: 20px;
+    border: 3px solid lightgrey;
+}
+#order_form_head {
+    margin-top: 0;
+
+}
+fieldset {
+    margin-bottom: 20px;
+    border-style: outset;
+}
+legend {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+label {
+    display: inline-block;
+    width: 150px;
+    text-align: left;
+}
+input[type="submit"]:hover {
+    cursor: pointer;
+}
+nav {
+    background-color: black;
+    line-height: 200%;
+}
+
+nav li {
+    display: inline;
+    padding-right: 40px;
+}
+
+nav a:link{
+    color:yellow;
+    text-decoration: none;
+}
+nav a:visited{
+    color:yellow;
+}
+
+nav a:hover{
+    text-decoration: underline;
+}
+
+nav a:active{
+    color: white;
+    text-decoration: underline;
+}
