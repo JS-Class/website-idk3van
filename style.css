@@ -9,14 +9,22 @@ header {
     line-height: 2em;
 }
 
+img 
+{
+    float: left;
+    margin: 5px;
+
+}
 h3 {
     color: purple;
+    vertical-align: bottom;
 }
-
 p {
     font-family: Verdana;
 }
-
+.list {
+    clear: both;
+}
 ol {
     font-family:'Trebuchet MS';
     font-size: 1.25em;
